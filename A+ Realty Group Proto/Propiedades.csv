@@ -1,3 +1,3 @@
-unidad_id,nombre,precio,m2_terreno,m2_construccion
-1,Casa Residencial La Joya,"17700000",487,599
-2,Casa Jardines de Valle Alto,"17800000",422,593
+unidad_id,nombre,precio,m2_terreno,m2_construccion,colonia,zona,recamaras,baños
+1,Casa Residencial La Joya,"17700000",487,599,"Privada Magnolia","Residencial La Joya",3,4
+2,Casa Jardines de Valle Alto,"17800000",422,593,"Jardines de Valle Alto","Sierra Alta",3,5
