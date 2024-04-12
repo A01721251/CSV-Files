@@ -1,3 +1,3 @@
-unidad_id,nombre,precio,m2_terreno,m2_construccion,colonia,zona,recamaras,baños
-1,Casa Residencial La Joya,"17700000",487,599,"Privada Magnolia","Residencial La Joya",3,4
-2,Casa Jardines de Valle Alto,"17800000",422,593,"Jardines de Valle Alto","Sierra Alta",3,5
+unidad_id,nombre,precio,m2_terreno,m2_construccion,ciudad,calle,colonia,zona,pisos,recamaras,baños,ubicacion
+1,Casa Residencial La Joya,"17700000",487,599,Monterrey,Tulipan,"Privada Magnolia","Residencial La Joya",2,3,4,https://maps.app.goo.gl/K7N4KEoMe6phCZve7
+2,Casa Jardines de Valle Alto,"17800000",422,593,Monterrey,"Rosas de Valle Alto","Jardines de Valle Alto","Sierra Alta",3,3,6,https://maps.app.goo.gl/qH85bcXfDmbby6C28
